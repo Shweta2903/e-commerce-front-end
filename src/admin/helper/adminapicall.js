@@ -1,6 +1,6 @@
 import { API } from "../../core/backend";
 
-export const createCatagory = (
+export const createCategory = (
   userID,
   token,
   category
